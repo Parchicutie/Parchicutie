@@ -1,5 +1,6 @@
 ## Hi there 👋
 - ⚡ Fun fact: I'm a CpE Student from Mapua University
+- 🐱 My username is inspired by my cat named Parchi
 <!--
 **Parchicutie/Parchicutie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
